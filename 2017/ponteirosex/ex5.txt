@@ -1,0 +1,5 @@
+O primeiro printf mostra o valor da variável count.
+
+O segundo mostra o valor de um ponteiro que está apontando para a mesma variável, essencialmente mostrando o endereço dela.
+
+O terceiro mostra o endereço da variável diretamente.
